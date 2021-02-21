@@ -1,5 +1,5 @@
 ---
-title: "Goal #4: Synthesis of Theory & Practice"
+title: "Goal #5: Effective Communication"
 layout: default
 permalink: /fifthgoal/
 ---
