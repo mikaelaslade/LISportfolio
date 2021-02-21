@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+permalink: /
 ---
 This website will function as an e-portfolio for Mikaela Slade for the purposes of showcasing her individual skills gained through Dominican University’s MLIS program.
 
