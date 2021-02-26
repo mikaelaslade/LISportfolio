@@ -9,5 +9,6 @@ Full guidelines for the e-portfolio requirements can be found [here](https://www
 
 {% for subgoal_page in site.subgoal_pages %}
   {{ subgoal_page.title }}
-  {{ subgoal_page.content }}
+  {{ subgoal_page.content | truncatewords: 5, '...' }}
+
 {% endfor %}
