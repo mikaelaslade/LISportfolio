@@ -1,2 +1,6 @@
 title: "Mikaela's E-Portfolio"
 theme: jekyll-theme-midnight
+collections:
+  subgoal_pages:
+    output: true
+    layout: subgoal_pages
