@@ -2,6 +2,7 @@
 title: "Goal #3: Information Navigation"
 layout: default
 permalink: /thirdgoal/
+category: Third Goal
 ---
 Goal 3: Navigate, curate and create information across the spectrum of human records.
 - Outcome 3a. Design resources or tools that facilitate access to information.

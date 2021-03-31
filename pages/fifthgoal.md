@@ -2,6 +2,7 @@
 title: "Goal #5: Effective Communication"
 layout: default
 permalink: /fifthgoal/
+category: Fifth Goal
 ---
 Goal 5: Effectively communicate and collaborate to deliver, market, and advocate for library and information services.
 - Outcome 5a. Apply marketing principles to demonstrate and promote the value of libraries and information agencies.

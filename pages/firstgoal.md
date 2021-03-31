@@ -1,9 +1,10 @@
 ---
-title: "Goal"#1: Professional Identity"
+title: "Goal #1: Professional Identity"
 layout: default
 permalink: /firstgoal/
+category: First Goal
 ---
-Goal 1:     Develop a professional identity and philosophy within the library and information professions. --
+Goal 1:     Develop a professional identity and philosophy within the library and information professions.
 
 - Outcome 1a. Describe the historical context and dynamic nature of the core values and ethics of the library and information professions.
 - Outcome 1b. Articulate the philosophies, theories, models, and/or major perspectives of the library and information professions.

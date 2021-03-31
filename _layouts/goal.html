@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+{{ content }}
+<ul>
+  {% for subgoal_page in site.subgoal_pages %}
+    {% if subgoal_page.category == page.category %}
+      <li>
+        {{ subgoal_page.title }}: {{ subgoal_page.content | truncatewords: 5, '...' }}
+        <p>
+          <a href="{{ subgoal_page.artifact_url }}">Download artifact</a>
+        </p>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
