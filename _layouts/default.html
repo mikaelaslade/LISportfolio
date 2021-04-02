@@ -6,6 +6,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
     <!--[if lt IE 9]>
@@ -15,7 +16,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
+</head>
     <body>
       {% include header.html %}
         <div id="header">
@@ -25,7 +26,7 @@
               <header class="page-header" role="banner">
                 <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
                 <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-  <nav id="main navigation">
+  <nav id="mainnavigation">
                   <a href= "{{ "/" | relative_url }}" class="btn">Home</a>
                   <a href="{{ "/about/" | relative_url }}" class="btn">About</a>
                   <a href="{{ "/firstgoal/" | relative_url }}" class="btn">Goal 1</a>
