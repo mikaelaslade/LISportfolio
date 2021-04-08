@@ -11,10 +11,11 @@
 .header {
   padding-left: 0px;
 }
-
 #header nav {
-    background: transparent;
+  background: transparent;
+  max-width: none;
 }
-section #title {
-    display: auto
+.navButtons{
+  display: flex;
+  justify-content: center;
 }
