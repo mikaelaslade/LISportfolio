@@ -47,3 +47,6 @@ Salt Lake Community College, graduated with Associates of Arts in English
 (08/2013 - 05/2016)
 
 </div>
+<div class= "img-right" markdown="1">
+![Image of Mikaela](/assets/images/profilepic.JPG)
+</div>
