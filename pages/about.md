@@ -48,5 +48,5 @@ Salt Lake Community College, graduated with Associates of Arts in English
 
 </div>
 <div class= "img-right" markdown="1">
-![Image of Mikaela](/assets/images/profilepic.JPG)
+![Image of Mikaela]({{"/assets/images/profilepic.JPG" | relative_url}})
 </div>
