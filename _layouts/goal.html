@@ -8,9 +8,9 @@ layout: default
   {% for subgoal_page in site.subgoal_pages %}
     {% if subgoal_page.category == page.category %}
       <li>
-        {{ subgoal_page.title }}: {{ subgoal_page.content | truncatewords: 5, '...' }}
+        {{ subgoal_page.title }}: {{ subgoal_page.content }}
         <p>
-          <a href="{{ subgoal_page.artifact_url }}">Download artifact</a>
+          <a href="{{ subgoal_page.artifact_url }}"> >> Download artifact << </a>
         </p>
       </li>
     {% endif %}
