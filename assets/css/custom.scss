@@ -27,9 +27,8 @@
 .navButtons{
   display: flex;
   justify-content: center;
-  font-weight: 700;
+  font-weight: bold;
   font-size: medium;
-
 }
 .clearfix::after {
   content: "";
@@ -62,3 +61,4 @@
 img {
   max-width: 100%;
   height: auto;
+}
