@@ -31,14 +31,13 @@
   font-size: medium;
 }
 .navButtons .btn{
-  font-weight: bolder;
+  font-weight: bold;
 }
 .clearfix::after {
   content: "";
   clear: both;
   display: table;
 }
-
 .content-left {
   @media all and (min-width: 960px) {
     width: 66%;
@@ -64,4 +63,7 @@
 img {
   max-width: 100%;
   height: auto;
+}
+h2{
+font-size: 20px;
 }

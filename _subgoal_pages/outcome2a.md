@@ -1,5 +1,5 @@
 ---
-title: Outcome 2a.
+title: Outcome 2a
 category: Second Goal
 ---
 Describe various definitions and concepts of information.

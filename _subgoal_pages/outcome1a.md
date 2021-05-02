@@ -1,5 +1,5 @@
 ---
-title: Outcome 1a.
+title: Outcome 1a
 category: First Goal
 
 ---
