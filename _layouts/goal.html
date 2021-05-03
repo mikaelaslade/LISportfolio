@@ -8,10 +8,10 @@ layout: default
   {% for subgoal_page in site.subgoal_pages %}
     {% if subgoal_page.category == page.category %}
       <li>
-        <h2>{{ subgoal_page.title }}:</h2> 
+        <h2>{{ subgoal_page.title }}:</h2>
         {{ subgoal_page.content }}
         <p>
-          <a href="{{ subgoal_page.artifact_url }}"> >> Download artifact << </a>
+          <a href="{{ subgoal_page.artifact_url | relative_url }}"> >> Download artifact << </a>
         </p>
       </li>
     {% endif %}
