@@ -1,7 +1,7 @@
 ---
 title: Outcome 3c
 category: Third Goal
-artifact_url: /assets/artifacts/HeuristicSiteEvaluation.docx
+artifact_url: "/assets/artifacts/HeuristicSiteEvaluation.docx"
 ---
 Evaluate resources or tools that facilitate access to and manage information.
 
