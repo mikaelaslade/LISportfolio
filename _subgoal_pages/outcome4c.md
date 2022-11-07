@@ -14,4 +14,6 @@ In LIS 702: Facilitating User Learning and Information Needs, I had the opportun
 5. Deliver the instruction 
 6. Evaluate and Revise
 
-I used this process for my presentation, which I have attached [here](assets/artifacts/InstructionSession1-2.pptx). The artifact link shows a detailed explanation of the topic, a script of the presentation, and a description of the ACRL framework I utilized. The Association of College & Research Libraries has identified six key frames for information literacy and is a useful teaching tool, especially within LIS. 
+I used this process for my presentation, which I have attached below. The artifact link shows a detailed explanation of the topic, a script of the presentation, and a description of the ACRL framework I utilized. The Association of College & Research Libraries has identified six key frames for information literacy and is a useful teaching tool, especially within LIS. 
+
+<iframe src="https://mydomedu-my.sharepoint.com/personal/mslade_my_dom_edu/_layouts/15/Doc.aspx?sourcedoc={d32b2755-5eee-422b-ae3d-2a70ee32f062}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
