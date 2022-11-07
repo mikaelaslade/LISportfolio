@@ -4,7 +4,7 @@ category: First Goal
 artifact_url: assets/artifacts/775Discussion4.pdf
 
 ---
-Describe the historical context and dynamic nature of the core values and ethics of the library and information professions.
+Describe the evolving nature of the core values and ethics within diverse information environments.
 
 ### **LIS 775 Discussion 4** ###
 
