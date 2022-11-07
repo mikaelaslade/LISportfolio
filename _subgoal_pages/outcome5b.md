@@ -3,5 +3,5 @@ title: Outcome 5b
 category: Fifth Goal
 artifact_url: 
 ---
-Apply advocacy principles to demonstrate and promote the value of libraries and information agencies.
+Demonstrate effective professional communication to achieve common understanding as an individual or in group settings.
 
