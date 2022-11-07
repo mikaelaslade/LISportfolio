@@ -13,4 +13,5 @@ In LIS 702: Facilitating User Learning and Information Needs, I had the opportun
 4. Design methods and/or materials 
 5. Deliver the instruction 
 6. Evaluate and Revise
+
 I used this process for my presentation, which I have attached here. 
