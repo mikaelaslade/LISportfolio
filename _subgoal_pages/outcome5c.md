@@ -4,7 +4,7 @@ category: Fifth Goal
 artifact_url: assets/artifacts/Slade_IndividualReport.docx
 ---
 Demonstrate leadership principles in an educational, professional, or community context.
-### ** Individual Report and Peer Review** ###
+### **Individual Report and Peer Review** ###
 
 Building off of outcome 5b, this artifact is from the same group assignment. We were asked to submit an Individual Report, attached below, and a Peer Review to reflect on how well we worked together. I noticed in the beginning that the group was rather uncommunicative and so I felt like I needed to take the initiative to follow up regularly to make sure that we stayed on track. It was quite difficult to make a lot of seemingly simple decisions due to wanting to receive everyone's input but receiving no answer or non-commital answers. Eventually, I realized that the most effective strategy was to make decisions and offer those decisions up for input. I took a leadership role by making decisions and delegating roles when necessary.
 
