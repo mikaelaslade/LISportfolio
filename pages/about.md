@@ -4,7 +4,8 @@ layout: default
 permalink: /about/
 ---
 About
-
+<h1> Mikaela Slade </h1>
+<h2> mikki.slade@gmail.com </h2>
 <div class= "content-left" markdown="1">
 
 ### **Education** ###
