@@ -7,7 +7,7 @@ About
 <h1> Mikaela Slade </h1>
 <h2> mikki.slade@gmail.com </h2>
 <div class= "content-left" markdown="1">
-[Copy of Resume](https://docs.google.com/document/d/e/2PACX-1vRk-MERx84imM20y2XMHduZOVmNI3M184tseKyHNzv8SUtNOHyaRoMy2OcvcCluyg/pub)
+[Copy of Resume](https://docs.google.com/document/d/1c9uICOxnF1_SNwR2cwnL4HIcQ1EwicNI/edit?usp=sharing&ouid=105375704272925135594&rtpof=true&sd=true)
 
 ### **Education** ###
 **MASTERS | 2022 | DOMINICAN UNIVERSITY**
